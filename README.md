@@ -6,8 +6,8 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 |   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | A Study in Chocolate  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Random Forest  | A Study in Chocolate  | Content Cell  | Content Cell  | Content Cell  |
+| Logistic Regression  | Heart Attack Prediction  | Content Cell  | Content Cell  | Content Cell  |
 
 
 # Deep Learning
