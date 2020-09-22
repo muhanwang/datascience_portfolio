@@ -5,8 +5,8 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 # Machine Learning
 
 |   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| ------------- | -------------         | ------------- | ------------- | ------------- |
+| Content Cell  | A Study in Chocolate  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
