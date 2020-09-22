@@ -11,3 +11,8 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 
 # Deep Learning
+
+|   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
