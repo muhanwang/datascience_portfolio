@@ -4,10 +4,10 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 # Machine Learning
 
-|     Title     |  Description  | Implentation  |    Dataset    |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 # Deep Learning
