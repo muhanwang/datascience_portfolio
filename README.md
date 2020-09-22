@@ -4,15 +4,15 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 # Machine Learning
 
-|   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Random Forest  | A Study in Chocolate  | Content Cell  | Content Cell  | Content Cell  |
-| Logistic Regression  | Heart Attack Prediction  | Content Cell  | Content Cell  | Content Cell  |
+|   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |    Status    |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Random Forest  | A Study in Chocolate  | Content Cell  | Content Cell  | Content Cell  | Complete  |
+| Logistic Regression  | Heart Attack Prediction  | Content Cell  | Content Cell  | Content Cell  | Complete  |
 
 
 # Deep Learning
 
-|   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Image Classification  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |    Status    |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Image Classification  | Content Cell  | Content Cell  | Content Cell  | In progress  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | In progress  |
