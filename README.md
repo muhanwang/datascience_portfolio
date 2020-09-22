@@ -14,5 +14,5 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 |   Algorithm   |     Title     |  Description  | Implentation  |    Dataset    |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Image Classification  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
